@@ -1,38 +1,36 @@
-# 📊 Estudo Populacional com Python e IBGE - Censo 2022
+📊 Estudo Populacional com Python e IBGE - Censo 2022
 
-Este projeto apresenta uma série de visualizações gráficas a partir dos dados públicos do Censo 2022 (IBGE), utilizando Python e Google Colab. O objetivo é facilitar a compreensão de aspectos populacionais do Brasil por meio de gráficos e dados organizados.
+Este projeto apresenta uma análise visual e exploratória dos dados públicos do Censo Demográfico 2022, fornecidos pelo IBGE. Usando Python no Google Colab, foram gerados gráficos que facilitam a compreensão dos aspectos demográficos e sociais do Brasil, com foco especial nas desigualdades raciais e habitacionais em favelas.
 
-### 🛠 Ferramentas utilizadas:
-- Python
-- Google Colab
-- Pandas
-- Matplotlib / Seaborn
-- GitHub
+🛠 Ferramentas utilizadas:
+Python  
+Google Colab  
+Pandas  
+Matplotlib  
+GitHub  
 
-### 📁 Estrutura do projeto:
-- Extração e leitura dos arquivos CSV do IBGE
-- Geração de gráficos com base em cada tema:
-  - População por sexo
-  - Composição domiciliar
-  - Alfabetização
-  - Deficiência e autismo
-  - Nível de instrução
-  - Cor ou raça
-  - População indígena
-  - Favelas, quilombolas e muito mais
+📁 Etapas do projeto:
+Extração e leitura dos arquivos CSV e Excel do IBGE  
+Tratamento de dados com Pandas  
+Geração de gráficos por tema:  
+População por sexo  
+Alfabetização  
+Deficiência e autismo  
+Nível de instrução  
+Cor ou raça  
+População indígena e quilombola  
+Condições domiciliares e do entorno  
+Favelas e pirâmides etárias por região  
+Crescimento populacional e densidade  
 
-### 📎 Documentação detalhada no Notion:
-👉 Acesse o passo a passo, gráficos e códigos explicados:
-[🔗 Ver no Notion](https://fragrant-alto-c70.notion.site/Estudo-Populacional-com-Python-e-IBGE-Censo-2022-1ff71e93287081b8bf6ed731090fec52)
+📌 Conclusão:
+O estudo foi dividido em duas partes: um panorama geral da população brasileira e, em seguida, um recorte focado na população residente em favelas, especialmente na faixa etária de 20 a 39 anos. As visualizações revelam padrões de desigualdade racial e habitacional que reforçam a importância do uso consciente de dados públicos como instrumento de análise social e crítica.
 
----
 
-### 📌 Status do projeto:
-✅ Dados organizados  
-✅ Gráficos gerados  
-🔜 Análises aprofundadas (em breve)
+Status do projeto:
+Dados tratados  
+Gráficos gerados  
+Conclusão final adicionada  
 
----
 
-Feito por [Bruno Ricardo](https://www.linkedin.com/in/bruno-ricardo-274a64128/)
-
+Feito por Bruno Ricardo
