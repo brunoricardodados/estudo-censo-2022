@@ -34,5 +34,5 @@ Este projeto apresenta uma série de visualizações gráficas a partir dos dado
 
 ---
 
-Feito com 💙 por [Bruno Ricardo](https://www.linkedin.com/in/bruno-ricardo-274a64128/)
+Feito por [Bruno Ricardo](https://www.linkedin.com/in/bruno-ricardo-274a64128/)
 
